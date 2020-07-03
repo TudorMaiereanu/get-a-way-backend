@@ -130,3 +130,5 @@ dmypy.json
 
 *.pyc
 .env
+
+.DS_Store
