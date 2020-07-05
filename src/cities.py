@@ -6,7 +6,10 @@ city_data = {
         "total": 1400000,
         "type": "Metropole",
         "lat": 48.137408,
-        "long": 11.575453
+        "long": 11.575453,
+        "hike": 1,
+        "surf": 1,
+        "cost": 0.43
     },
     "Zurich": {
         "infected": 931,
@@ -15,7 +18,10 @@ city_data = {
         "total": 400000,
         "type": "Metropole",
         "lat": 47.377858,
-        "long": 8.540324
+        "long": 8.540324,
+        "hike": 1,
+        "surf": 0,
+        "cost": 0.73
     },
     "Montpellier": {
         "infected": 209,
@@ -24,7 +30,10 @@ city_data = {
         "total": 270000,
         "type": "Stadt",
         "lat": 43.604799,
-        "long": 3.880717
+        "long": 3.880717,
+        "hike": 0,
+        "surf": 0,
+        "cost": 0.1
     },
     "Barcelona": {
         "infected": 6155,
@@ -33,7 +42,10 @@ city_data = {
         "total": 5500000,
         "type": "Metropole",
         "lat": 41.378999,
-        "long": 2.139914
+        "long": 2.139914,
+        "hike": 0,
+        "surf": 1,
+        "cost": 0.28,
     },
     "Lyon": {
         "infected": 1219,
@@ -42,7 +54,10 @@ city_data = {
         "total": 513000,
         "type": "Stadt",
         "lat": 45.760547,
-        "long": 4.861118
+        "long": 4.861118,
+        "hike": 0,
+        "surf": 0,
+        "cost": 0.13
     },
     "Geneva": {
         "infected": 5251,
@@ -51,7 +66,10 @@ city_data = {
         "total": 499000,
         "type": "Stadt",
         "lat": 46.210554,
-        "long": 6.143020
+        "long": 6.143020,
+        "hike": 1,
+        "surf": 0,
+        "cost": 0.78,
     },
     "Colmar": {
         "infected": 454,
@@ -60,7 +78,10 @@ city_data = {
         "total": 70000,
         "type": "Land",
         "lat": 48.072474,
-        "long": 7.346901
+        "long": 7.346901,
+        "hike": 0,
+        "surf": 0,
+        "cost": 0.11
     },
     "Avignon": {
         "infected": 63,
@@ -69,7 +90,10 @@ city_data = {
         "total": 92000,
         "type": "Stadt",
         "lat": "48.137408",
-        "long": 11.575453
+        "long": 11.575453,
+        "hike": 1,
+        "surf": 0,
+        "cost": 0.13
     },
     "Ceret": {
         "infected": 7,
@@ -78,7 +102,10 @@ city_data = {
         "total": 8000,
         "type": "Land",
         "lat": 42.485950,
-        "long": 2.748826
+        "long": 2.748826,
+        "hike": 1,
+        "surf": 0,
+        "cost": 0.09
     },
     "Mende": {
         "infected": 4,
@@ -87,7 +114,10 @@ city_data = {
         "total": 12000,
         "type": "Stadt",
         "lat": 44.517899,
-        "long": 3.498650
+        "long": 3.498650,
+        "hike": 0,
+        "surf": 0,
+        "cost": 0.1
     },
     "Titisee-Neustadt": {
         "infected": 54,
@@ -96,7 +126,10 @@ city_data = {
         "total": 12000,
         "type": "Land",
         "lat": 47.911781,
-        "long": 8.214160
+        "long": 8.214160,
+        "hike": 1,
+        "surf": 0,
+        "cost": 0.24
     },
     "Mayrhofen": {
         "infected": 203,
@@ -105,7 +138,10 @@ city_data = {
         "total": 4000,
         "type": "Land",
         "lat": 47.163580,
-        "long": 11.861360
+        "long": 11.861360,
+        "hike": 1,
+        "surf": 0,
+        "cost": 0.19
     },
     "Bozen": {
         "infected": 710,
@@ -114,7 +150,10 @@ city_data = {
         "total": 107000,
         "type": "Land",
         "lat": 46.496722,
-        "long": 11.358303
+        "long": 11.358303,
+        "hike": 1,
+        "surf": 0,
+        "cost": 0.21
     },
     "Digne": {
         "infected": 16,
@@ -123,7 +162,10 @@ city_data = {
         "total": 16000,
         "type": "Land",
         "lat": 43.847729,
-        "long": 6.511940
+        "long": 6.511940,
+        "hike": 1,
+        "surf": 0,
+        "cost": 0.19
     },
     "Girona": {
         "infected": 6075,
@@ -132,7 +174,10 @@ city_data = {
         "total": 760000,
         "type": "Land",
         "lat": 41.987343,
-        "long": 2.826289
+        "long": 2.826289,
+        "hike": 0,
+        "surf": 1,
+        "cost": 0.09
     },
     "Rodez": {
         "infected": 37,
@@ -141,7 +186,10 @@ city_data = {
         "total": 24000,
         "type": "Camping",
         "lat": 44.351131,
-        "long": 2.573550
+        "long": 2.573550,
+        "hike": 0,
+        "surf": 0,
+        "cost": 0.1
     },
     "Chamonix": {
         "infected": 11,
@@ -150,7 +198,10 @@ city_data = {
         "total": 9000,
         "type": "Land",
         "lat": 45.917359,
-        "long": 6.867023
+        "long": 6.867023,
+        "hike": 1,
+        "surf": 0,
+        "cost": 0.08
     },
     "St.Moritz": {
         "infected": 25,
@@ -159,7 +210,10 @@ city_data = {
         "total": 5000,
         "type": "Land",
         "lat": 46.497679,
-        "long": 9.845281
+        "long": 9.845281,
+        "hike": 1,
+        "surf": 0,
+        "cost": 1
     },
     "Genoa": {
         "infected": 3770,
@@ -168,7 +222,10 @@ city_data = {
         "total": 590000,
         "type": "Stadt",
         "lat": 44.406642,
-        "long": 8.946882
+        "long": 8.946882,
+        "hike": 0,
+        "surf": 1,
+        "cost": 0.08
     },
     "Marseille": {
         "infected": 209,
@@ -177,7 +234,10 @@ city_data = {
         "total": 270000,
         "type": "Stadt",
         "lat": 43.296482,
-        "long": 5.369780
+        "long": 5.369780,
+        "hike": 0,
+        "surf": 0,
+        "cost": 0.09,
     },
     "Bayonne": {
         "infected": 20,
@@ -186,7 +246,10 @@ city_data = {
         "total": 51000,
         "type": "Stadt",
         "lat": 43.493401,
-        "long": -1.474570
+        "long": -1.474570,
+        "hike": 0,
+        "surf": 0,
+        "cost": 0.12,
     },
     "Bordeaux": {
         "infected": 686,
@@ -195,7 +258,10 @@ city_data = {
         "total": 250000,
         "type": "Stadt",
         "lat": 44.837876,
-        "long": -0.579920
+        "long": -0.579920,
+        "hike": 0,
+        "surf": 1,
+        "cost": 0.12
     },
     "Saint Etienne": {
         "infected": 301,
@@ -204,16 +270,22 @@ city_data = {
         "total": 170000,
         "type": "Land",
         "lat": 45.439651,
-        "long": 4.387810
+        "long": 4.387810,
+        "hike": 0,
+        "surf": 0,
+        "cost": 0
     },
-    "Mailand": {
+    "Milan": {
         "infected": 12998,
         "dead": 2318,
         "healed":8732,
         "total": 1400000,
         "type": "Metropole",
         "lat": 45.486836,
-        "long": 9.203486
+        "long": 9.203486,
+        "hike": 0,
+        "surf": 0,
+        "cost": 0.38
     },
     "Paris": {
         "infected": 9039,
@@ -222,7 +294,10 @@ city_data = {
         "total": 2148000,
         "type": "Metropole",
         "lat": 48.876297,
-        "long": 2.358878
+        "long": 2.358878,
+        "hike": 0,
+        "surf": 0,
+        "cost": 0.4
     },
     "Strasbourg": {
         "infected": 2517,
@@ -231,6 +306,9 @@ city_data = {
         "total": 277000,
         "type": "Stadt",
         "lat": 48.573406,
-        "long": 7.752111
+        "long": 7.752111,
+        "hike": 0,
+        "surf": 0,
+        "cost": 0.11
     },
 }
